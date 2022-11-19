@@ -2,7 +2,6 @@
 
 # dependencies
 /node_modules
-/src/api.tsx
 /.pnp
 .pnp.js
 
