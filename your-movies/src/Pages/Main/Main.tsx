@@ -59,7 +59,7 @@ const App = () => {
       </div>
       <div className="movie-menu">
         <h1>O que devo assistir a seguir?</h1>
-        <input type="button" id='button' value='Me surpreenda!' onClick={handleClick} />
+        <input type="button" id='button' value='&#128073;Me surpreenda!' onClick={handleClick} />
         <div className={infostyle} id="movie-info" >
           <div className="header">
             <h2>{titulo} </h2>
