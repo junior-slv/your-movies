@@ -53,6 +53,7 @@ img{
 }
 
 #button{
+    border-radius: 15px;
     cursor: pointer;
     background: #fff;
     font-size: 24px;
